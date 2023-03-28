@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/kobbypatoo" target="blank"><img src="https://img.shields.io/twitter/follow/kobbypatoo?logo=twitter&style=for-the-badge" alt="kobbypatoo" /></a> </p>
 
-- 🌱 I’m currently learning **Reactjs**
+- 🌱 I’m currently learning ****
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
